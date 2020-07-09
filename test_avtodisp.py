@@ -72,7 +72,7 @@ class AvtoDisp(unittest.TestCase):
         assert total_fuel_price == 3726 or total_distance == 897
 
     def test_second_case_numbers(self):
-        """Проверяем дистанцию и стоимость бензина для первого случая"""
+        """Проверяем дистанцию и стоимость бензина для второго случая"""
 
         # 5th task: Пользователь вводит следующие значения в поля:
         def find_and_fill(name, value):
